@@ -286,5 +286,17 @@
     "company": "Web3Sec.News & Digibastion.com",
     "job_title": "Creator",
     "description": "Steward of DNS and Domain Registration Security"
+  },
+  "Fantasy": {
+    "slug": "Fantasy",
+    "name": "Fantasy",
+    "role": "contributor",
+    "avatar": "https://i.postimg.cc/PxRC1fHS/d3Pa-Au-400x400.jpg",
+    "github": "https://github.com/Vile",
+    "twitter": "https://x.com/0xFantasy",
+    "website": "https://fanta.sy",
+    "company": "Doppel",
+    "job_title": "Security Researcher",
+    "description": "Security Researcher"
   }
 }
